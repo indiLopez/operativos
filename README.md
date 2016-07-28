@@ -1,0 +1,2 @@
+# operativos
+ejemplo
